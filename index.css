@@ -3,7 +3,27 @@ body
 	background-color: #eeffcc ;
 	padding-top: 50px;
 }
+.botones
+{
+	font-weight: bold;
+	background-color: red;
+}
 
+.boton_a
+{
+	background-color: #0000b3;
+	padding-left: 14px; 
+	padding-right: 14px;
+}
+
+.boton_b
+{
+	background-color: yellow;
+}
+.navbar-default .navbar-nav>li>a
+{
+	color:black;
+}
 
 .logofundacion
 {
@@ -12,7 +32,7 @@ body
 
 .navbar-brand
 {
-	padding: 0px 40px;
+	padding: 0px;
 }
 
 .navbar
@@ -75,7 +95,7 @@ font-weight: bold;
 
 .imagen_p
 {
-	margin-top: 50px;
+	margin-top: 24px;
 }
 
 
@@ -139,5 +159,10 @@ margin: 0px;
         margin-bottom: 15px;
     }
     
+}
+
+.n_1
+{
+	padding: 2px;
 }
 

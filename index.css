@@ -154,11 +154,15 @@ margin: 0px;
     margin-bottom:0px;
 }
 
-@media (max-width: 768px) { 
+@media (max-width: 768px) 
+{ 
     #contact iframe {
         margin-bottom: 15px;
     }
-    
+    .boton_a
+    {
+    	padding-left: 1px;
+    }
 }
 
 .n_1

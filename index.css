@@ -30,9 +30,9 @@ body
 	width: 50px;
 }
 
-.navbar-brand
+.navbar-brand 
 {
-padding: 0px 0px 0px 0px;
+	padding: 0px;
 }
 
 .navbar
@@ -70,6 +70,7 @@ padding: 0px 0px 0px 0px;
 	padding-top: 20px;
 	font-size: 20px;}
 
+	
 	.p_titulo_nosotros
 	{
 		font-weight: bold;
@@ -130,33 +131,39 @@ padding: 0px 0px 0px 0px;
 /*Google font integration*/
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
-#contact{
+#contact
+{
 	background-color:#d5ff80;
 	font-family: 'Roboto', sans-serif;
 }
 
-#contact .well{
+#contact .well
+{
 	margin-top:30px;
 	border-radius:0;
 }
 
-#contact .form-control{
+#contact .form-control
+{
 	border-radius: 0;
 	border:2px solid #1e1e1e;
 }
 
-#contact button{
+#contact button
+{
 	border-radius:0;
 	border:2px solid #1e1e1e;
 }
 
-#contact .row{
+#contact .row
+{
 	margin-bottom:0px;
 }
 
 @media (max-width: 768px) 
 { 
-	#contact iframe {
+	#contact iframe 
+	{
 		margin-bottom: 15px;
 	}
 	.boton_a

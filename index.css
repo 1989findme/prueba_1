@@ -41,7 +41,7 @@ body
 
 .navbar
 {
-	background-color:  #d5ff80 ;
+	background-color: #d5ff80 ;
 	border: none;
 	margin-bottom: 0px;
 }
@@ -101,7 +101,6 @@ body
 	margin-top: 24px;
 }
 
-
 .centrar_lista
 {
 	text-align: center;
@@ -135,8 +134,8 @@ body
 
 #contact
 {
-	background-color:#d5ff80;
 	font-family: 'Roboto', sans-serif;
+	background-image: url("images/verde.jpg");
 }
 
 #contact .well

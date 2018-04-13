@@ -6,19 +6,23 @@ body
 .botones
 {
 	font-weight: bold;
-	background-color: red;
 }
 
 .boton_a
 {
-	background-color: #0000b3;
+	background-color: #4d79ff;
 	padding-left: 14px; 
 	padding-right: 14px;
 }
 
 .boton_b
 {
-	background-color: yellow;
+	background-color: #ffff4d;
+}
+
+.boton_c
+{
+	background-color: #ff704d;
 }
 .navbar-default .navbar-nav>li>a
 {
@@ -172,10 +176,27 @@ body
 		padding-left: 1px;
 	}
 
+	.p_noticias
+	{
+		padding: 0px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+
 	.noticias
 	{
-		padding-left: 2px;
-		padding-right: 2px;
+	    padding: 2px;
+		margin-top: 0px;
+		margin-bottom: 0px;	
+	}
+	.thumbnail
+	{
+		margin-bottom: 5px;
+	}
+
+	.noticias_titulo
+	{
+		font-size: 30px;	
 	}
 }
 

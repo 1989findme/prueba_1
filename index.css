@@ -42,13 +42,13 @@ body
 	margin-bottom: 0px;
 }
 
-
 .logopng
 {
 	padding: 50px;
 	margin-top:100px;
 	height: 200px;
 }
+
 .header
 {
 	width: 100%;
@@ -65,21 +65,22 @@ body
 }
 
 .p_titulo_noticias
-{font-weight: bold;
+{
+	font-weight: bold;
 	text-align: center;
 	padding-top: 20px;
-	font-size: 20px;}
+	font-size: 20px;
+}
 
 	
-	.p_titulo_nosotros
-	{
-		font-weight: bold;
-		text-align: center;
-		padding-top: 0px;
-		font-size: 15px;	
-	}
-
+.p_titulo_nosotros
+{
+	font-weight: bold;
+	text-align: center;
+	padding-top: 0px;
+	font-size: 15px;	
 }
+
 .noticias
 {
 	padding: 10px;
@@ -110,9 +111,9 @@ body
 	border:0px;
 	float: left;
 }
+
 .fono
 {
-
 	padding-left: 0px;
 	margin: 0px;
 }
